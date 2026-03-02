@@ -32,21 +32,36 @@ I'm a **Computer Science Engineer** specializing in **Artificial Intelligence** 
 - 🤖 Developing **Copilot systems** and **Large Language Models** using neural networks
 - 🧠 Exploring **Generative AI**, **NLP**, and advanced ML techniques
 - 🌐 Building scalable **full-stack web applications**
-- 📊 Analyzing data to extract meaningful insights
 - 🏠 Creating **smart automation** solutions with AI
 
 ---
 
-## 💼 Experience Highlights
+## 🌟 Featured Projects
 
-🔬 **AI Researcher @ Coding Jr**  
-Building Copilot systems, optimizing LLMs, and deploying AI models with TensorFlow & PyTorch
+<table>
+<tr>
+<td width="50%">
 
-📊 **Data Analyst @ Excelerate**  
-Performing EDA, data visualization, and delivering data-driven insights using Python & SQL
+### 👵 Eldercare AI
+**AI assistance for elder care & wellbeing**
 
-🎯 **AI Intern @ IStudio**  
-Developed face recognition systems using PCA & ANN, gaining hands-on deep learning experience
+A project focused on using AI to support elder care workflows—helping with monitoring, assistance, and improving quality of life.
+
+- Repo: https://github.com/jayaprakash2207/eldercare_ai
+
+</td>
+<td width="50%">
+
+### 🧩 ENTITY-X
+**Entity extraction / knowledge-focused AI system**
+
+A project centered on identifying, structuring, and working with entities for downstream AI use-cases.
+
+- Repo: https://github.com/jayaprakash2207/ENTITY-X
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -79,101 +94,6 @@ Developed face recognition systems using PCA & ANN, gaining hands-on deep learni
 
 ---
 
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎤 VOXCE - AI Voice Assistant
-**Smart Automation Reimagined**
-
-An AI-powered voice assistant that brings intelligence to your smart home. Control devices with your voice, secured by face and voice authentication.
-
-**Tech:** Python • AI/ML • Voice Processing • IoT
-
-**Features:**
-- 🗣️ Natural voice command processing
-- 🔐 Biometric authentication
-- ⚡ Real-time device control
-
-</td>
-<td width="50%">
-
-### 😊 Facial Emotion Detection
-**Understanding Human Emotions**
-
-Real-time emotion recognition system using deep learning to classify facial expressions through webcam input.
-
-**Tech:** Python • OpenCV • TensorFlow • CNN
-
-**Features:**
-- 📹 Real-time detection
-- 🧠 Deep learning model
-- 🎯 Multi-class classification
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔐 OTP-Based Locking System
-**IoT Meets Security**
-
-Arduino-powered smart lock with SMS OTP authentication for enhanced security.
-
-**Tech:** Arduino • C • GSM • IoT
-
-**Features:**
-- 📱 SMS OTP verification
-- 🔒 Secure relay control
-- ⚙️ Embedded systems
-
-</td>
-<td width="50%">
-
-### 🚀 More Projects Coming Soon...
-**Stay Tuned!**
-
-Currently working on exciting AI/ML projects involving:
-- Large Language Models
-- Generative AI applications
-- Full-stack web solutions
-
-Check my repositories for updates!
-
-</td>
-</tr>
-</table>
-
----
-
-## 📚 Certifications & Learning
-
-🎓 **CS50** - Harvard University  
-🎓 **CS50's Introduction to Artificial Intelligence with Python** - Harvard University  
-🎓 **Python For Data Science, AI & Development**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayaprakash2207&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash2207&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayaprakash2207&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🎯 Core Competencies
 
 ```
@@ -187,12 +107,11 @@ Problem Solving          ██████████████████�
 
 ---
 
-## 💡 What Drives Me
+## 📚 Certifications & Learning
 
-- 🧠 **Innovation:** Pushing the boundaries of what's possible with AI
-- 🌍 **Impact:** Building solutions that make a real difference
-- 📚 **Learning:** Constantly evolving with the tech landscape
-- 🤝 **Collaboration:** Working with brilliant minds on exciting projects
+🎓 **CS50** - Harvard University  
+🎓 **CS50's Introduction to Artificial Intelligence with Python** - Harvard University  
+🎓 **Python For Data Science, AI & Development**
 
 ---
 
@@ -207,20 +126,9 @@ I'm always open to interesting conversations, collaborations, and opportunities!
 | 📧 | [jayaprakash22072005@gmail.com](mailto:jayaprakash22072005@gmail.com) |
 | 💼 | [LinkedIn - jayaprakash2005](https://linkedin.com/in/jayaprakash2005) |
 | 🐙 | [GitHub - @jayaprakash2207](https://github.com/jayaprakash2207) |
-| 📱 | +91 8248186839 |
 | 📍 | Chennai, India |
 
 </div>
-
----
-
-## ⚡ Fun Facts
-
-- ☕ I code best with a cup of coffee
-- 🎯 I believe AI will transform every industry
-- 🏠 Passionate about smart home automation
-- 🧩 Love solving complex algorithmic challenges
-- 🌟 Open source enthusiast
 
 ---
 
@@ -229,9 +137,5 @@ I'm always open to interesting conversations, collaborations, and opportunities!
 ### 💭 "Building the future, one algorithm at a time"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jayaprakash2207&color=blueviolet&style=for-the-badge)
-
-**Thanks for visiting! Let's build something extraordinary together! 🚀**
-
-⭐ **Star my repositories if you find them interesting!**
 
 </div>

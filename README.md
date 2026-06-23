@@ -28,34 +28,67 @@
 <!-- ====================== ABOUT ME ====================== -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
 
-```python
-class Jayaprakash:
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/64/artificial-intelligence.png" width="48"/><br/>
+      <b>AI & ML</b><br/>
+      <sub>LLMs · Agents · RAG</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/64/code.png" width="48"/><br/>
+      <b>Full-Stack Dev</b><br/>
+      <sub>React · FastAPI · Node</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/64/graduation-cap.png" width="48"/><br/>
+      <b>B.E. CSE</b><br/>
+      <sub>Velammal IT</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/64/marker.png" width="48"/><br/>
+      <b>Based in</b><br/>
+      <sub>Chennai, India 🇮🇳</sub>
+    </td>
+  </tr>
+</table>
 
-    def __init__(self):
-        self.role  = "AI & Full-Stack Dev"
-        self.edu   = "B.E. CSE, Velammal IT"
-        self.base  = "Chennai, India"
-        self.focus = ["LLMs", "Agents", "RAG"]
-        self.stack = ["Python", "React",
-                      "FastAPI", "PyTorch"]
+</div>
 
-    def mission(self):
-        return "data → model → API → UI"
+<br/>
 
-    def motto(self):
-        return "Ship. Learn. Repeat. 🚀"
-```
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- 🧠  Specializing in **Artificial Intelligence & Machine Learning** — LLMs, agents, NLP, and computer vision
-- 🔭  Currently building **AI Copilot systems** and **production-ready RAG pipelines**
-- 🌱  Exploring **Generative AI**, **autonomous agents**, and **self-evolving neural networks**
-- 🌐  Crafting **scalable full-stack web applications** with clean, measurable engineering
-- 💬  Ask me about **LLMs, RAG, computer vision, or full-stack architecture**
-- ⚡  Fun fact: I code best with a cup of coffee ☕ and believe AI will transform every industry
+> 🧠 &nbsp;Specializing in **AI & Machine Learning** — LLMs, agents, NLP & computer vision
+>
+> 🔭 &nbsp;Currently building **AI Copilot systems** & **production-ready RAG pipelines**
+>
+> 🌱 &nbsp;Exploring **Generative AI**, **autonomous agents** & **self-evolving neural nets**
+>
+> 🌐 &nbsp;Crafting **scalable full-stack web apps** with clean, measurable engineering
+>
+> 💬 &nbsp;Ask me about **LLMs, RAG, computer vision** or **full-stack architecture**
+>
+> ⚡ &nbsp;Fun fact: I code best with a cup of coffee ☕ & believe AI will transform every industry
 
-<br clear="right"/>
+</td>
+<td width="42%" valign="top" align="center">
+
+<img alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![](https://img.shields.io/badge/🚀_Building_the_future,_one_algorithm_at_a_time-8E2DE2?style=for-the-badge)
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 

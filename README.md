@@ -28,23 +28,24 @@
 <!-- ====================== ABOUT ME ====================== -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```python
 class Jayaprakash:
+
     def __init__(self):
-        self.name        = "Jayaprakash A.R."
-        self.role        = "AI Engineer & Full-Stack Developer"
-        self.education   = "B.E. CSE @ Velammal Institute of Technology"
-        self.location    = "Chennai, India 🇮🇳"
-        self.focus       = ["LLMs", "AI Agents", "RAG", "GenAI"]
-        self.stack       = ["Python", "React", "FastAPI", "PyTorch"]
+        self.role  = "AI & Full-Stack Dev"
+        self.edu   = "B.E. CSE, Velammal IT"
+        self.base  = "Chennai, India"
+        self.focus = ["LLMs", "Agents", "RAG"]
+        self.stack = ["Python", "React",
+                      "FastAPI", "PyTorch"]
 
-    def current_mission(self):
-        return "Building AI products end-to-end: data → model → API → UI"
+    def mission(self):
+        return "data → model → API → UI"
 
-    def life_motto(self):
-        return "Building the future, one algorithm at a time. 🚀"
+    def motto(self):
+        return "Ship. Learn. Repeat. 🚀"
 ```
 
 - 🧠  Specializing in **Artificial Intelligence & Machine Learning** — LLMs, agents, NLP, and computer vision
@@ -183,11 +184,6 @@ AI assistance for **elder care & wellbeing** — monitoring, assistance, and imp
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash2207&layout=compact&hide_border=true&title_color=4A00E0&text_color=24292f&langs_count=8" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash2207&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&langs_count=8" />
 </picture>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jayaprakash2207&theme=radical_dark&utcOffset=5.5" />
-
-<br/><br/>
-
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayaprakash2207&theme=radical_dark" />
 
 </div>
 

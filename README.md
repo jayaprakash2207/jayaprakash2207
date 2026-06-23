@@ -28,10 +28,10 @@
 const jayaprakash = {
   pronouns : "He" | "Him",
   role     : "AI Engineer & Full-Stack Developer",
-  code     : ["Python", "TypeScript", "Java", "C#"],
-  askMeAbout: ["LLMs", "RAG", "Agents", "Computer Vision"],
-  currently: "Building AI copilots & production RAG pipelines",
-  motto    : "Build the future, one algorithm at a time. 🚀",
+  code     : ["Python", "TS", "Java", "C#"],
+  askMeAbout: ["LLMs", "RAG", "Agents", "CV"],
+  currently: "Building AI copilots & RAG",
+  motto    : "Ship. Learn. Repeat. 🚀",
 };
 ```
 

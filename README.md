@@ -1,6 +1,6 @@
 <!-- ====================== HEADER ====================== -->
 <a href="https://github.com/jayaprakash2207">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:6A1FD0,100:4A00E0&height=240&section=header&text=Jayaprakash%20A.R.&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Building%20Intelligence%20into%20Everything&descAlignY=56&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:6A1FD0,100:4A00E0&height=260&section=header&text=Jayaprakash%20A.R.&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Building%20Intelligence%20into%20Everything&descAlignY=54&descSize=18" />
 </a>
 
 <!-- ====================== TYPING SVG ====================== -->
@@ -23,45 +23,16 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 <!-- ====================== ABOUT ME ====================== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/64/artificial-intelligence.png" width="48"/><br/>
-      <b>AI & ML</b><br/>
-      <sub>LLMs · Agents · RAG</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/64/code.png" width="48"/><br/>
-      <b>Full-Stack Dev</b><br/>
-      <sub>React · FastAPI · Node</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/64/graduation-cap.png" width="48"/><br/>
-      <b>B.E. CSE</b><br/>
-      <sub>Velammal IT</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/64/marker.png" width="48"/><br/>
-      <b>Based in</b><br/>
-      <sub>Chennai, India 🇮🇳</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=48&text=%F0%9F%91%8B%20%20About%20Me&fontSize=26&fontColor=ffffff&fontAlignY=62" width="100%"/>
 
 <br/>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
+
+<br/>
 
 > 🧠 &nbsp;Specializing in **AI & Machine Learning** — LLMs, agents, NLP & computer vision
 >
@@ -76,7 +47,7 @@
 > ⚡ &nbsp;Fun fact: I code best with a cup of coffee ☕ & believe AI will transform every industry
 
 </td>
-<td width="42%" valign="top" align="center">
+<td width="40%" valign="top" align="center">
 
 <img alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -86,48 +57,81 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/🚀_Building_the_future,_one_algorithm_at_a_time-8E2DE2?style=for-the-badge)
+![](https://img.shields.io/badge/🧠_AI_&_ML-LLMs_·_Agents_·_RAG-8E2DE2?style=for-the-badge&labelColor=4A00E0)
+![](https://img.shields.io/badge/💻_Full--Stack-React_·_FastAPI_·_Node-6A1FD0?style=for-the-badge&labelColor=4A00E0)
+![](https://img.shields.io/badge/🎓_B.E._CSE-Velammal_IT-8E2DE2?style=for-the-badge&labelColor=4A00E0)
+![](https://img.shields.io/badge/📍_Based_in-Chennai,_India-6A1FD0?style=for-the-badge&labelColor=4A00E0)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 <!-- ====================== TECH STACK ====================== -->
-## 🛠️ Tech Stack & Tools
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=48&text=%F0%9F%9B%A0%EF%B8%8F%20%20Tech%20Stack%20%26%20Tools&fontSize=26&fontColor=ffffff&fontAlignY=62" width="100%"/>
 
 <div align="center">
 
-#### 💻 Languages
+<br/>
+
+**💻 Languages**
+
 <img src="https://skillicons.dev/icons?i=py,js,ts,java,cs,cpp,mysql&perline=7" />
 
-#### 🤖 AI / ML & Data Science
+**🤖 AI / ML & Data Science**
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda&perline=7" />
 
 <sub>＋ LangChain · Hugging Face · ChromaDB · Pandas · NumPy · Google Gemini · Ollama · CLIP</sub>
 
-#### 🌐 Web & Backend
+**🌐 Web & Backend**
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask,spring,tailwind,vite&perline=8" />
 
-#### 🗄️ Databases & DevOps
+**🗄️ Databases & DevOps**
+
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,git,github,postman&perline=8" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 <!-- ====================== EXPERIENCE ====================== -->
-## 💼 Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=48&text=%F0%9F%92%BC%20%20Experience&fontSize=26&fontColor=ffffff&fontAlignY=62" width="100%"/>
 
-| Role | Organization | What I Did |
-|:----:|:------------:|:-----------|
-| 🔬 **AI Researcher** | Coding Jr | Built Copilot systems, optimized LLMs, deployed models with TensorFlow & PyTorch |
-| 📊 **Data Analyst** | Excelerate | Performed EDA & data visualization, delivered insights using Python & SQL |
-| 🎯 **AI Intern** | IStudio | Developed face recognition systems using PCA & ANN with hands-on deep learning |
+<br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🔬
+**AI Researcher**
+<br/>`Coding Jr`
+
+<sub>Built Copilot systems, optimized LLMs & deployed models with TensorFlow & PyTorch</sub>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 📊
+**Data Analyst**
+<br/>`Excelerate`
+
+<sub>Performed EDA & data visualization, delivering insights with Python & SQL</sub>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🎯
+**AI Intern**
+<br/>`IStudio`
+
+<sub>Developed face recognition systems using PCA & ANN with hands-on deep learning</sub>
+
+</td>
+</tr>
+</table>
 
 <!-- ====================== FEATURED PROJECTS ====================== -->
-## 🌟 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=48&text=%F0%9F%8C%9F%20%20Featured%20Projects&fontSize=26&fontColor=ffffff&fontAlignY=62" width="100%"/>
+
+<br/>
 
 <table>
 <tr>
@@ -136,7 +140,10 @@
 ### 🏢 [OrchestrAI-ERP](https://github.com/jayaprakash2207/OrchestrAI-ERP)
 AI-powered ERP platform that **generates financial ERP solutions from natural language** + a JD Edwards AI Copilot.
 
-`FastAPI` `LangGraph` `Gemini 2.0` `Next.js` `ChromaDB` `PostgreSQL`
+![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![](https://img.shields.io/badge/Gemini_2.0-4285F4?style=flat-square&logo=google&logoColor=white)
+![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 
 </td>
 <td width="50%" valign="top">
@@ -144,7 +151,10 @@ AI-powered ERP platform that **generates financial ERP solutions from natural la
 ### 🖼️ [Axithor VisionRAG Pro](https://github.com/jayaprakash2207/Axithor-VisionRAG-Pro-Multimodal-Image-Retrieval-Reasoning-System)
 **Privacy-first multimodal image retrieval & reasoning** — search images with natural language, all running locally.
 
-`CLIP` `LLaVA` `Ollama` `ChromaDB` `FastAPI` `React`
+![](https://img.shields.io/badge/CLIP-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/LLaVA-FF6F61?style=flat-square)
+![](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 </td>
 </tr>
@@ -152,9 +162,11 @@ AI-powered ERP platform that **generates financial ERP solutions from natural la
 <td width="50%" valign="top">
 
 ### 🤖 [Aletheia AI](https://github.com/jayaprakash2207/Aletheia-AI---Autonomous-Thinking-Assistant)
-**Autonomous thinking assistant** that plans, sees via screenshots, acts through the GUI, validates, and self-corrects.
+**Autonomous thinking assistant** that plans, sees via screenshots, acts through the GUI, validates & self-corrects.
 
-`Python` `Gemini` `Vision` `Desktop Automation`
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -162,7 +174,9 @@ AI-powered ERP platform that **generates financial ERP solutions from natural la
 ### 🧬 [CA-SANN](https://github.com/jayaprakash2207/CA-SANN--Context-Aware-Self-Evolving-Neural-Network)
 A neural network that **grows & prunes its own architecture** during training, guided by capacity & task difficulty.
 
-`PyTorch` `Three.js` `Plotly` `Research`
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js)
+![](https://img.shields.io/badge/Research-8E2DE2?style=flat-square)
 
 </td>
 </tr>
@@ -172,15 +186,18 @@ A neural network that **grows & prunes its own architecture** during training, g
 ### 🛒 [eShop Modernized](https://github.com/jayaprakash2207/eshop-modernized-FE)
 Cloud-native e-commerce platform **AI reverse/forward-engineered** from a legacy monolith, with 95% contract parity.
 
-`.NET 9` `C# 13` `React` `Kubernetes` `OpenTelemetry`
+![](https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 👵 [Eldercare AI](https://github.com/jayaprakash2207/eldercare_ai)
-AI assistance for **elder care & wellbeing** — monitoring, assistance, and improving quality of life.
+AI assistance for **elder care & wellbeing** — monitoring, assistance & improving quality of life.
 
-`Python` `Machine Learning` `AI`
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 </td>
 </tr>
@@ -192,12 +209,12 @@ AI assistance for **elder care & wellbeing** — monitoring, assistance, and imp
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 <!-- ====================== GITHUB ANALYTICS ====================== -->
-## 📊 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=48&text=%F0%9F%93%8A%20%20GitHub%20Analytics&fontSize=26&fontColor=ffffff&fontAlignY=62" width="100%"/>
 
 <div align="center">
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jayaprakash2207&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" />
@@ -220,12 +237,12 @@ AI assistance for **elder care & wellbeing** — monitoring, assistance, and imp
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 <!-- ====================== 3D CONTRIBUTION GRAPH ====================== -->
-## 🧊 3D Contribution Calendar
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=48&text=%F0%9F%A7%8A%20%203D%20Contribution%20Calendar&fontSize=26&fontColor=ffffff&fontAlignY=62" width="100%"/>
 
 <div align="center">
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayaprakash2207/jayaprakash2207/main/profile-3d-contrib/profile-night-rainbow.svg" />
@@ -236,27 +253,33 @@ AI assistance for **elder care & wellbeing** — monitoring, assistance, and imp
 </div>
 
 <!-- ====================== TROPHIES ====================== -->
-## 🏆 GitHub Trophies
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=48&text=%F0%9F%8F%86%20%20GitHub%20Trophies&fontSize=26&fontColor=ffffff&fontAlignY=62" width="100%"/>
 
 <div align="center">
+
+<br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jayaprakash2207&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <!-- ====================== ACTIVITY GRAPH ====================== -->
-## 📈 Contribution Activity
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=48&text=%F0%9F%93%88%20%20Contribution%20Activity&fontSize=26&fontColor=ffffff&fontAlignY=62" width="100%"/>
 
 <div align="center">
+
+<br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayaprakash2207&theme=react-dark&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <!-- ====================== SNAKE ANIMATION ====================== -->
-## 🐍 Watch My Contributions Get Eaten
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=48&text=%F0%9F%90%8D%20%20Watch%20My%20Contributions%20Get%20Eaten&fontSize=26&fontColor=ffffff&fontAlignY=62" width="100%"/>
 
 <div align="center">
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayaprakash2207/jayaprakash2207/output/github-contribution-grid-snake-dark.svg" />
@@ -267,47 +290,51 @@ AI assistance for **elder care & wellbeing** — monitoring, assistance, and imp
 </div>
 
 <!-- ====================== WAKATIME ====================== -->
-## ⏱️ Weekly Coding Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=48&text=%E2%8F%B1%EF%B8%8F%20%20Weekly%20Coding%20Stats&fontSize=26&fontColor=ffffff&fontAlignY=62" width="100%"/>
 
 <!--START_SECTION:waka-->
 <div align="center">
+<br/>
 <i>Connecting WakaTime… stats will appear here automatically once tracking begins. ⏳</i>
 </div>
 <!--END_SECTION:waka-->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 <!-- ====================== CERTIFICATIONS ====================== -->
-## 📚 Certifications
-
-- 🎓 **CS50: Introduction to Computer Science** — Harvard University
-- 🎓 **CS50's Introduction to Artificial Intelligence with Python** — Harvard University
-- 🎓 **Python for Data Science, AI & Development** — IBM
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ====================== CONNECT ====================== -->
-## 📫 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=48&text=%F0%9F%93%9A%20%20Certifications&fontSize=26&fontColor=ffffff&fontAlignY=62" width="100%"/>
 
 <div align="center">
 
+<br/>
+
+![](https://img.shields.io/badge/CS50:_Intro_to_Computer_Science-Harvard-A51C30?style=for-the-badge&logo=harvard&logoColor=white)
+![](https://img.shields.io/badge/CS50:_AI_with_Python-Harvard-A51C30?style=for-the-badge&logo=harvard&logoColor=white)
+![](https://img.shields.io/badge/Python_for_Data_Science_&_AI-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+</div>
+
+<!-- ====================== CONNECT ====================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=48&text=%F0%9F%93%AB%20%20Let's%20Connect&fontSize=26&fontColor=ffffff&fontAlignY=62" width="100%"/>
+
+<div align="center">
+
+<br/>
+
 I'm always open to interesting conversations, collaborations, and opportunities!
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayaprakash2005)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayaprakash22072005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayaprakash2207)
 
-</div>
-
-<!-- ====================== QUOTE ====================== -->
-<div align="center">
+<br/>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 <!-- ====================== FOOTER ====================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20extraordinary.&fontSize=18&fontColor=ffffff&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=140&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20extraordinary.&fontSize=18&fontColor=ffffff&animation=twinkling" />
 
 <div align="center">
 

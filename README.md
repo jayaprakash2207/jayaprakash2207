@@ -24,19 +24,24 @@
 
 <img align="right" width="38%" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-I'm a **Computer Science Engineer** specializing in **Artificial Intelligence & Machine Learning**, passionate about building intelligent systems that solve real-world problems — from **LLMs and AI copilots** to **full-stack web applications**.
+```typescript
+const jayaprakash = {
+  pronouns : "He" | "Him",
+  role     : "AI Engineer & Full-Stack Developer",
+  code     : ["Python", "TypeScript", "Java", "C#"],
+  askMeAbout: ["LLMs", "RAG", "Agents", "Computer Vision"],
+  currently: "Building AI copilots & production RAG pipelines",
+  motto    : "Build the future, one algorithm at a time. 🚀",
+};
+```
 
-&nbsp;🧠&nbsp; Specializing in **AI & ML** — LLMs, agents, NLP & computer vision
-
-&nbsp;🔭&nbsp; Currently building **AI Copilot systems** & **production-ready RAG pipelines**
-
-&nbsp;🌱&nbsp; Exploring **Generative AI**, **autonomous agents** & **self-evolving neural nets**
-
-&nbsp;🌐&nbsp; Crafting **scalable full-stack web apps** with clean, measurable engineering
-
-&nbsp;💬&nbsp; Ask me about **LLMs, RAG, computer vision** or **full-stack architecture**
-
-&nbsp;⚡&nbsp; Fun fact: I code best with a cup of coffee ☕ & believe AI will transform every industry
+> 🧠 &nbsp; Specializing in **AI & ML** — LLMs, agents, NLP & computer vision
+>
+> 🔭 &nbsp; Currently building **AI Copilot systems** & **production-ready RAG pipelines**
+>
+> 🌱 &nbsp; Exploring **Generative AI**, **autonomous agents** & **self-evolving neural nets**
+>
+> ⚡ &nbsp; Fun fact: I code best with a cup of coffee ☕ & believe AI will transform every industry
 
 <br clear="right"/>
 

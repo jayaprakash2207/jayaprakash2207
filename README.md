@@ -1,217 +1,243 @@
+<!-- ====================== HEADER ====================== -->
+<a href="https://github.com/jayaprakash2207">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Jayaprakash%20A.R.&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Building%20Intelligence%20into%20Everything&descAlignY=58&descSize=18" />
+</a>
+
+<!-- ====================== TYPING SVG ====================== -->
 <div align="center">
-
-# 👋 Hey, I'm Jayaprakash!
-
-### AI Engineer | Full-Stack Developer | Building Intelligence into Everything
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Engineer;Full-Stack+Web+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayaprakash2005)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayaprakash22072005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayaprakash2207)
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=820&lines=AI+Engineer+%7C+Full-Stack+Developer;Building+LLMs%2C+Agents+%26+RAG+Systems;Turning+Complex+Problems+into+Elegant+Solutions;Always+Learning.+Always+Shipping.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
----
+<!-- ====================== SOCIAL BADGES ====================== -->
+<div align="center">
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayaprakash2005)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayaprakash22072005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayaprakash2207)
+[![Location](https://img.shields.io/badge/Chennai,%20India-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai,India)
 
-I'm a **Computer Science Engineer** specializing in **Artificial Intelligence** and **Machine Learning**, with a passion for building intelligent systems that solve real-world problems. From developing LLMs and Copilot systems to crafting full-stack web applications, I love turning complex challenges into elegant, scalable solutions.
+![Profile Views](https://komarev.com/ghpvc/?username=jayaprakash2207&label=Profile%20Views&color=8E2DE2&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/jayaprakash2207?label=Followers&style=for-the-badge&color=4A00E0&logo=github)](https://github.com/jayaprakash2207?tab=followers)
 
-🎓 **Education:** B.E. in CSE @ Velammal Institute of Technology  
-📍 **Location:** Chennai, India  
-💼 **Current Focus:** Developing LLMs & AI Copilot Systems  
-🔍 **Interests:** AI/ML • Generative AI • Full-Stack Development • Smart Automation
+</div>
 
-> *"Let's build something amazing together!"*
+<br/>
 
----
+<!-- ====================== ABOUT ME ====================== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-## 🔥 What I'm Working On
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🤖 Developing **Copilot systems** and **Large Language Models** using neural networks
-- 🧠 Exploring **Generative AI**, **NLP**, and advanced ML techniques
-- 🌐 Building scalable **full-stack web applications**
-- 📊 Analyzing data to extract meaningful insights
-- 🏠 Creating **smart automation** solutions with AI
+```python
+class Jayaprakash:
+    def __init__(self):
+        self.name        = "Jayaprakash A.R."
+        self.role        = "AI Engineer & Full-Stack Developer"
+        self.education   = "B.E. CSE @ Velammal Institute of Technology"
+        self.location    = "Chennai, India 🇮🇳"
+        self.focus       = ["LLMs", "AI Agents", "RAG", "GenAI"]
+        self.stack       = ["Python", "React", "FastAPI", "PyTorch"]
 
----
+    def current_mission(self):
+        return "Building AI products end-to-end: data → model → API → UI"
 
-## ✨ Highlights (A • B • C)
+    def life_motto(self):
+        return "Building the future, one algorithm at a time. 🚀"
+```
 
-### A) Highlights
-- 🚀 Building AI products end-to-end: from data → model → API → UI
-- 🧠 Strong focus on LLM-based assistants (RAG, prompt engineering, evaluation)
-- 🧰 Practical engineering mindset: clean code, measurable improvements, iteration
+- 🧠  Specializing in **Artificial Intelligence & Machine Learning** — LLMs, agents, NLP, and computer vision
+- 🔭  Currently building **AI Copilot systems** and **production-ready RAG pipelines**
+- 🌱  Exploring **Generative AI**, **autonomous agents**, and **self-evolving neural networks**
+- 🌐  Crafting **scalable full-stack web applications** with clean, measurable engineering
+- 💬  Ask me about **LLMs, RAG, computer vision, or full-stack architecture**
+- ⚡  Fun fact: I code best with a cup of coffee ☕ and believe AI will transform every industry
 
-### B) Focus Areas
-- **LLMs & GenAI:** RAG, agents, embeddings, fine-tuning basics
-- **AI/ML:** NLP, Computer Vision, classical ML pipelines
-- **Full-stack:** React, Node.js, Spring Boot, Flask, REST APIs
+<br clear="right"/>
 
-### C) Currently Building
-- Improving my AI copilot systems and experimenting with production-ready RAG setups
-- Shipping more real-world AI utilities (automation + dashboards)
-- Expanding my portfolio with research + deployable demos
+<!-- ====================== TECH STACK ====================== -->
+## 🛠️ Tech Stack & Tools
 
----
-
-## 💼 Experience Highlights
-
-🔬 **AI Researcher @ Coding Jr**  
-Building Copilot systems, optimizing LLMs, and deploying AI models with TensorFlow & PyTorch
-
-📊 **Data Analyst @ Excelerate**  
-Performing EDA, data visualization, and delivering data-driven insights using Python & SQL
-
-🎯 **AI Intern @ IStudio**  
-Developed face recognition systems using PCA & ANN, gaining hands-on deep learning experience
-
----
-
-## 🛠️ Tech Stack
+<div align="center">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### AI / ML & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+### Web & Backend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Tools & Platforms
+### Databases & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
----
+</div>
 
+<!-- ====================== EXPERIENCE ====================== -->
+## 💼 Experience
+
+| Role | Organization | What I Did |
+|:----:|:------------:|:-----------|
+| 🔬 **AI Researcher** | Coding Jr | Built Copilot systems, optimized LLMs, deployed models with TensorFlow & PyTorch |
+| 📊 **Data Analyst** | Excelerate | Performed EDA & data visualization, delivered insights using Python & SQL |
+| 🎯 **AI Intern** | IStudio | Developed face recognition systems using PCA & ANN with hands-on deep learning |
+
+<!-- ====================== FEATURED PROJECTS ====================== -->
 ## 🌟 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 👵 Eldercare AI
-**AI assistance for elder care & wellbeing**
+### 🏢 [OrchestrAI-ERP](https://github.com/jayaprakash2207/OrchestrAI-ERP)
+AI-powered ERP platform that **generates financial ERP solutions from natural language** + a JD Edwards AI Copilot.
 
-A project focused on using AI to support elder care workflows—helping with monitoring, assistance, and improving quality of life.
-
-**Repo:** https://github.com/jayaprakash2207/eldercare_ai
+`FastAPI` `LangGraph` `Gemini 2.0` `Next.js` `ChromaDB` `PostgreSQL`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧩 ENTITY-X
-**Entity extraction / knowledge-focused AI system**
+### 🖼️ [Axithor VisionRAG Pro](https://github.com/jayaprakash2207/Axithor-VisionRAG-Pro-Multimodal-Image-Retrieval-Reasoning-System)
+**Privacy-first multimodal image retrieval & reasoning** — search images with natural language, all running locally.
 
-A project centered on identifying, structuring, and working with entities for downstream AI use-cases.
+`CLIP` `LLaVA` `Ollama` `ChromaDB` `FastAPI` `React`
 
-**Repo:** https://github.com/jayaprakash2207/ENTITY-X
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Aletheia AI](https://github.com/jayaprakash2207/Aletheia-AI---Autonomous-Thinking-Assistant)
+**Autonomous thinking assistant** that plans, sees via screenshots, acts through the GUI, validates, and self-corrects.
+
+`Python` `Gemini` `Vision` `Desktop Automation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 [CA-SANN](https://github.com/jayaprakash2207/CA-SANN--Context-Aware-Self-Evolving-Neural-Network)
+A neural network that **grows & prunes its own architecture** during training, guided by capacity & task difficulty.
+
+`PyTorch` `Three.js` `Plotly` `Research`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [eShop Modernized](https://github.com/jayaprakash2207/eshop-modernized-FE)
+Cloud-native e-commerce platform **AI reverse/forward-engineered** from a legacy monolith, with 95% contract parity.
+
+`.NET 9` `C# 13` `React` `Kubernetes` `OpenTelemetry`
+
+</td>
+<td width="50%" valign="top">
+
+### 👵 [Eldercare AI](https://github.com/jayaprakash2207/eldercare_ai)
+AI assistance for **elder care & wellbeing** — monitoring, assistance, and improving quality of life.
+
+`Python` `Machine Learning` `AI`
 
 </td>
 </tr>
 </table>
 
----
-
-## 📌 More Projects (from my resume)
-
-### 🎤 VOXCE — AI-Powered Personalized Voice Assistant for Smart Automation
-- Developed to control electronic devices via voice commands  
-- Integrated face and voice authentication for secure access  
-- Designed for smart homes with real-time interaction  
-
-### 😊 Facial Emotion Detection
-- Built a Python system to detect emotions using ML  
-- Used OpenCV and TensorFlow for CNN training  
-- Added real-time webcam detection  
-
-### 🔐 OTP-Based Locking System
-- Created a secure lock with OTP using Arduino  
-- Programmed in C with GSM for SMS OTP  
-- Controlled lock via relay circuit  
-
----
-
-## 📚 Certifications & Learning
-
-🎓 **CS50** - Harvard University  
-🎓 **CS50's Introduction to Artificial Intelligence with Python** - Harvard University  
-🎓 **Python For Data Science, AI & Development**
-
----
-
-## 🎯 Core Competencies
-
-```
-AI & Machine Learning    ████████████████████░   95%
-Data Science & Analytics ███████████████████░░   90%
-Full-Stack Development   ██████████████████░░░   85%
-Computer Vision          ██████████████████░░░   85%
-NLP & Generative AI      ████████████████░░░░░   80%
-Problem Solving          ████████████████████░   95%
-```
-
----
-
-## 💡 What Drives Me
-
-- 🧠 **Innovation:** Pushing the boundaries of what's possible with AI
-- 🌍 **Impact:** Building solutions that make a real difference
-- 📚 **Learning:** Constantly evolving with the tech landscape
-- 🤝 **Collaboration:** Working with brilliant minds on exciting projects
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to interesting conversations, collaborations, and opportunities!
-
 <div align="center">
 
-| Platform | Link |
-|:--------:|:-----|
-| 📧 | [jayaprakash22072005@gmail.com](mailto:jayaprakash22072005@gmail.com) |
-| 💼 | [LinkedIn - jayaprakash2005](https://linkedin.com/in/jayaprakash2005) |
-| 🐙 | [GitHub - @jayaprakash2207](https://github.com/jayaprakash2207) |
-| 📱 | +91 8248186839 |
-| 📍 | Chennai, India |
+[![More Projects](https://img.shields.io/badge/See%20All%2055%2B%20Repositories-8E2DE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayaprakash2207?tab=repositories)
 
 </div>
 
----
-
-## ⚡ Fun Facts
-
-- ☕ I code best with a cup of coffee
-- 🎯 I believe AI will transform every industry
-- 🏠 Passionate about smart home automation
-- 🧩 Love solving complex algorithmic challenges
-- 🌟 Open source enthusiast
-
----
+<!-- ====================== GITHUB STATS ====================== -->
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 💭 "Building the future, one algorithm at a time"
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayaprakash2207&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash2207&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&langs_count=8" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=jayaprakash2207&color=blueviolet&style=for-the-badge)
+<br/>
 
-**Thanks for visiting! Let's build something extraordinary together!**
+<img src="https://streak-stats.demolab.com?user=jayaprakash2207&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" alt="GitHub Streak" />
 
-⭐ **Star my repositories if you find them interesting!**
+</div>
+
+<!-- ====================== TROPHIES ====================== -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jayaprakash2207&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<!-- ====================== ACTIVITY GRAPH ====================== -->
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayaprakash2207&theme=react-dark&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<!-- ====================== CERTIFICATIONS ====================== -->
+## 📚 Certifications
+
+- 🎓 **CS50: Introduction to Computer Science** — Harvard University
+- 🎓 **CS50's Introduction to Artificial Intelligence with Python** — Harvard University
+- 🎓 **Python for Data Science, AI & Development** — IBM
+
+<!-- ====================== CONNECT ====================== -->
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm always open to interesting conversations, collaborations, and opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayaprakash2005)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayaprakash22072005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayaprakash2207)
+
+</div>
+
+<!-- ====================== QUOTE ====================== -->
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+<!-- ====================== FOOTER ====================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20extraordinary.&fontSize=18&fontColor=ffffff&animation=twinkling" />
+
+<div align="center">
+
+⭐️ **Star my repositories if you find them interesting!**
 
 </div>

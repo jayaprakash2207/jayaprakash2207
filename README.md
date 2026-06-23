@@ -179,12 +179,24 @@ AI assistance for **elder care & wellbeing** — monitoring, assistance, and imp
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayaprakash2207&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash2207&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jayaprakash2207&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jayaprakash2207&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=4A00E0&icon_color=8E2DE2&text_color=24292f" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayaprakash2207&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash2207&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash2207&layout=compact&hide_border=true&title_color=4A00E0&text_color=24292f&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash2207&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&langs_count=8" />
+</picture>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=jayaprakash2207&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jayaprakash2207&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jayaprakash2207&hide_border=true&ring=4A00E0&fire=8E2DE2&currStreakLabel=4A00E0" />
+  <img src="https://streak-stats.demolab.com?user=jayaprakash2207&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" alt="GitHub Streak" />
+</picture>
 
 </div>
 
@@ -205,6 +217,28 @@ AI assistance for **elder care & wellbeing** — monitoring, assistance, and imp
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayaprakash2207&theme=react-dark&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+<!-- ====================== SNAKE ANIMATION ====================== -->
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayaprakash2207/jayaprakash2207/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayaprakash2207/jayaprakash2207/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/jayaprakash2207/jayaprakash2207/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<!-- ====================== WAKATIME ====================== -->
+## ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<div align="center">
+<i>Connecting WakaTime… stats will appear here automatically once tracking begins. ⏳</i>
+</div>
+<!--END_SECTION:waka-->
 
 <!-- ====================== CERTIFICATIONS ====================== -->
 ## 📚 Certifications

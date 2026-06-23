@@ -1,11 +1,11 @@
 <!-- ====================== HEADER ====================== -->
 <a href="https://github.com/jayaprakash2207">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Jayaprakash%20A.R.&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Building%20Intelligence%20into%20Everything&descAlignY=58&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:6A1FD0,100:4A00E0&height=240&section=header&text=Jayaprakash%20A.R.&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Building%20Intelligence%20into%20Everything&descAlignY=56&descSize=18" />
 </a>
 
 <!-- ====================== TYPING SVG ====================== -->
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=820&lines=AI+Engineer+%7C+Full-Stack+Developer;Building+LLMs%2C+Agents+%26+RAG+Systems;Turning+Complex+Problems+into+Elegant+Solutions;Always+Learning.+Always+Shipping.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
@@ -23,12 +23,12 @@
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ====================== ABOUT ME ====================== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```python
 class Jayaprakash:
@@ -56,48 +56,30 @@ class Jayaprakash:
 
 <br clear="right"/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 <!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+#### 💻 Languages
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,cs,cpp,mysql&perline=7" />
 
-### AI / ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+#### 🤖 AI / ML & Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda&perline=7" />
 
-### Web & Backend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<sub>＋ LangChain · Hugging Face · ChromaDB · Pandas · NumPy · Google Gemini · Ollama · CLIP</sub>
 
-### Databases & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+#### 🌐 Web & Backend
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask,spring,tailwind,vite&perline=8" />
+
+#### 🗄️ Databases & DevOps
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,git,github,postman&perline=8" />
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ====================== EXPERIENCE ====================== -->
 ## 💼 Experience
@@ -107,6 +89,8 @@ class Jayaprakash:
 | 🔬 **AI Researcher** | Coding Jr | Built Copilot systems, optimized LLMs, deployed models with TensorFlow & PyTorch |
 | 📊 **Data Analyst** | Excelerate | Performed EDA & data visualization, delivered insights using Python & SQL |
 | 🎯 **AI Intern** | IStudio | Developed face recognition systems using PCA & ANN with hands-on deep learning |
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ====================== FEATURED PROJECTS ====================== -->
 ## 🌟 Featured Projects
@@ -174,8 +158,10 @@ AI assistance for **elder care & wellbeing** — monitoring, assistance, and imp
 
 </div>
 
-<!-- ====================== GITHUB STATS ====================== -->
-## 📊 GitHub Stats
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ====================== GITHUB ANALYTICS ====================== -->
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -185,17 +171,37 @@ AI assistance for **elder care & wellbeing** — monitoring, assistance, and imp
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayaprakash2207&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash2207&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash2207&layout=compact&hide_border=true&title_color=4A00E0&text_color=24292f&langs_count=8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash2207&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&langs_count=8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jayaprakash2207&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jayaprakash2207&hide_border=true&ring=4A00E0&fire=8E2DE2&currStreakLabel=4A00E0" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=jayaprakash2207&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" alt="GitHub Streak" />
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jayaprakash2207&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jayaprakash2207&hide_border=true&ring=4A00E0&fire=8E2DE2&currStreakLabel=4A00E0" />
-  <img src="https://streak-stats.demolab.com?user=jayaprakash2207&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash2207&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash2207&layout=compact&hide_border=true&title_color=4A00E0&text_color=24292f&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash2207&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&langs_count=8" />
+</picture>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jayaprakash2207&theme=radical_dark&utcOffset=5.5" />
+
+<br/><br/>
+
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayaprakash2207&theme=radical_dark" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ====================== 3D CONTRIBUTION GRAPH ====================== -->
+## 🧊 3D Contribution Calendar
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayaprakash2207/jayaprakash2207/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayaprakash2207/jayaprakash2207/main/profile-3d-contrib/profile-season-animate.svg" />
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/jayaprakash2207/jayaprakash2207/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
@@ -240,12 +246,16 @@ AI assistance for **elder care & wellbeing** — monitoring, assistance, and imp
 </div>
 <!--END_SECTION:waka-->
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 <!-- ====================== CERTIFICATIONS ====================== -->
 ## 📚 Certifications
 
 - 🎓 **CS50: Introduction to Computer Science** — Harvard University
 - 🎓 **CS50's Introduction to Artificial Intelligence with Python** — Harvard University
 - 🎓 **Python for Data Science, AI & Development** — IBM
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ====================== CONNECT ====================== -->
 ## 📫 Let's Connect

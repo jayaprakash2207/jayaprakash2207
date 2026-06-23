@@ -23,7 +23,7 @@
 <tr>
 <td width="62%" valign="top">
 
-### <img src="https://media.tenor.com/SNr9pX2RYThAAAAi/hello.gif" width="30"> &nbsp;Hey, I'm Jayaprakash
+### 👋 &nbsp;Hey, I'm Jayaprakash
 
 I'm a **Computer Science Engineer** who turns ambitious AI ideas into **shipped, real-world systems** — from autonomous agents and RAG pipelines to full-stack products.
 

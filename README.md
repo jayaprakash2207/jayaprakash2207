@@ -252,17 +252,6 @@ AI assistance for **elder care & wellbeing** — monitoring, assistance & improv
 
 </div>
 
-<!-- ====================== TROPHIES ====================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=48&text=%F0%9F%8F%86%20%20GitHub%20Trophies&fontSize=26&fontColor=ffffff&fontAlignY=62" width="100%"/>
-
-<div align="center">
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jayaprakash2207&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 <!-- ====================== ACTIVITY GRAPH ====================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=48&text=%F0%9F%93%88%20%20Contribution%20Activity&fontSize=26&fontColor=ffffff&fontAlignY=62" width="100%"/>
 

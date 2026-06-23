@@ -195,11 +195,63 @@ mindset:     "Ship. Learn. Repeat. 🚀"
 <h2 align="center">⏱️ &nbsp;Weekly Coding Breakdown</h2>
 
 <!--START_SECTION:waka-->
-<div align="center">
-<br/>
-<i>Connecting WakaTime… stats appear here automatically as I code. ⏳</i>
-<br/><br/>
-</div>
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 233 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 55 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   162 commits         ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+Tuesday                  104 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Wednesday                54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Thursday                 90 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Friday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Saturday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Sunday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   23 repos            █████████░░░░░░░░░░░░░░░░   37.10 % 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
+
+
+
+
+ Last Updated on 23/06/2026 11:35:46 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">

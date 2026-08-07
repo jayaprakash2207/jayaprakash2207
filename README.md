@@ -195,15 +195,15 @@ mindset:     "Ship. Learn. Repeat. 🚀"
 <h2 align="center">⏱️ &nbsp;Weekly Coding Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-331%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-337%20hrs%2046%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 784 Contributions in the Year 2026
+> 🏆 788 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -211,67 +211,6 @@ mindset:     "Ship. Learn. Repeat. 🚀"
  > 
 > 🔑 0 Private Repositories 
  > 
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   292 commits         ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-Tuesday                  176 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Wednesday                134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Thursday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Friday                   90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Saturday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   34 hrs 10 mins      ████████████████░░░░░░░░░   64.53 % 
-Other                    7 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Markdown                 4 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-TypeScript               2 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-JSON                     53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-
-🔥 Editors: 
-Claude Code              48 hrs 54 mins      ███████████████████████░░   92.35 % 
-VS Code                  4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-
-🐱‍💻 Projects: 
-wings AI                 33 hrs 10 mins      ████████████████░░░░░░░░░   62.66 % 
-rev-eng1 test oracle new 8 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-automated-reverse-enginee7 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-menu csv                 3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-
-💻 Operating System: 
-Windows                  52 hrs 57 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 51 hrs 55 mins (98.06%)
-
-✍️ 12,049 lines written by AI, 2,087 lines written by hand (85.24% AI-written)
-
-🔤 252,909,305 Input Tokens, 1,078,144 Output Tokens
-
-💵 $771.06 Estimated AI Cost This Week
-
-🧠 15 AI Sessions, 644 AI Prompts
-
-Sonnet                   12,540 lines        █████████████████████████   100.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 85.24% of written lines came from AI
-📄 Detailed Prompter — average 1,007 characters per prompt
-🔁 Iterative Prompter — average 43 prompts per session
-🚀 High AI Trust — 16.44% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -285,7 +224,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 03:52:52 UTC
+ Last Updated on 07/08/2026 03:32:35 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">

@@ -195,9 +195,9 @@ mindset:     "Ship. Learn. Repeat. 🚀"
 <h2 align="center">⏱️ &nbsp;Weekly Coding Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-339%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-340%20hrs%2049%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -228,48 +228,48 @@ Sunday                   98 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   29 hrs 12 mins      ██████████████░░░░░░░░░░░   57.43 % 
-Other                    9 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Markdown                 5 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-TypeScript               2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-JSON                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Python                   26 hrs 32 mins      ██████████████░░░░░░░░░░░   56.62 % 
+Other                    9 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Markdown                 5 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+JSON                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+TypeScript               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🔥 Editors: 
-Claude Code              45 hrs 12 mins      ██████████████████████░░░   88.90 % 
-VS Code                  5 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Claude Code              41 hrs 14 mins      ██████████████████████░░░   87.96 % 
+VS Code                  5 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 
 🐱‍💻 Projects: 
-wings AI                 26 hrs 4 mins       █████████████░░░░░░░░░░░░   51.25 % 
-rev-eng1 test oracle new 10 hrs 43 mins      █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-automated-reverse-enginee9 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-menu csv                 4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+wings AI                 22 hrs 5 mins       ████████████░░░░░░░░░░░░░   47.12 % 
+rev-eng1 test oracle new 10 hrs 43 mins      ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+automated-reverse-enginee9 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+menu csv                 4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
 
 💻 Operating System: 
-Windows                  50 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  46 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 hrs 57 mins (96.25%)
+⏱ AI Coding Time: 44 hrs 58 mins (95.93%)
 
-✍️ 10,992 lines written by AI, 2,092 lines written by hand (84.01% AI-written)
+✍️ 10,730 lines written by AI, 2,092 lines written by hand (83.68% AI-written)
 
-🔤 222,648,856 Input Tokens, 1,047,401 Output Tokens
+🔤 199,583,879 Input Tokens, 910,905 Output Tokens
 
-💵 $633.88 Estimated AI Cost This Week
+💵 $527.36 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 644 AI Prompts
+🧠 19 AI Sessions, 593 AI Prompts
 
-Sonnet                   11,237 lines        █████████████████████████   100.00 % 
+Sonnet                   10,407 lines        █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.01% of written lines came from AI
-📄 Detailed Prompter — average 981 characters per prompt
-🔁 Iterative Prompter — average 34 prompts per session
-🚀 High AI Trust — 17.78% of changed lines were hand-edited
+🤖 AI-Driven — 83.68% of written lines came from AI
+📄 Detailed Prompter — average 995 characters per prompt
+🔁 Iterative Prompter — average 31 prompts per session
+🚀 High AI Trust — 18.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -285,7 +285,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 02:31:30 UTC
+ Last Updated on 09/08/2026 02:38:27 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">

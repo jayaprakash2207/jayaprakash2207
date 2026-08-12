@@ -195,32 +195,32 @@ mindset:     "Ship. Learn. Repeat. 🚀"
 <h2 align="center">⏱️ &nbsp;Weekly Coding Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-345%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-351%20hrs%2054%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 802 Contributions in the Year 2026
+> 🏆 877 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 60 Public Repositories 
+> 📜 61 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   297 commits         ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-Tuesday                  176 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Wednesday                134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Thursday                 132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Friday                   91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Saturday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Sunday                   106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Monday                   327 commits         ███████░░░░░░░░░░░░░░░░░░   28.73 % 
+Tuesday                  212 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Wednesday                142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Thursday                 132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Friday                   91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Saturday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Sunday                   106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
 ```
 
 
@@ -228,63 +228,64 @@ Sunday                   106 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   15 hrs 14 mins      ███████████░░░░░░░░░░░░░░   44.34 % 
-Other                    10 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   29.62 % 
-Markdown                 4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-TypeScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Python                   15 hrs 22 mins      ███████████░░░░░░░░░░░░░░   44.70 % 
+Other                    8 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+Markdown                 6 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+JSON                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+TypeScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-Claude Code              28 hrs 59 mins      █████████████████████░░░░   84.35 % 
-VS Code                  5 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Claude Code              28 hrs 57 mins      █████████████████████░░░░   84.20 % 
+VS Code                  5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
 
 🐱‍💻 Projects: 
-wings AI                 12 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   37.71 % 
-automated-reverse-enginee9 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.31 % 
-rev-eng1 test oracle new 7 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
-menu csv                 4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+wings AI                 14 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   40.96 % 
+automated-reverse-enginee9 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+rev-eng1 test oracle new 8 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+menu csv                 2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 
 💻 Operating System: 
-Windows                  34 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 30 mins (94.61%)
+⏱ AI Coding Time: 31 hrs 29 mins (91.56%)
 
-✍️ 9,127 lines written by AI, 2,092 lines written by hand (81.35% AI-written)
+✍️ 9,392 lines written by AI, 772 lines written by hand (92.4% AI-written)
 
-🔤 113,690,035 Input Tokens, 637,230 Output Tokens
+🔤 92,168,496 Input Tokens, 651,097 Output Tokens
 
-💵 $356.79 Estimated AI Cost This Week
+💵 $293.23 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 482 AI Prompts
+🧠 15 AI Sessions, 455 AI Prompts
 
-Sonnet                   9,368 lines         █████████████████████████   100.00 % 
+Sonnet                   9,267 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.35% of written lines came from AI
-📄 Detailed Prompter — average 1,180 characters per prompt
-🔁 Iterative Prompter — average 25 prompts per session
-🚀 High AI Trust — 20.88% of changed lines were hand-edited
+🤖 AI-Driven — 92.4% of written lines came from AI
+📄 Detailed Prompter — average 828 characters per prompt
+🔁 Iterative Prompter — average 30 prompts per session
+🚀 High AI Trust — 10.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   27 repos            ██████████░░░░░░░░░░░░░░░   38.03 % 
-HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Python                   28 repos            ██████████░░░░░░░░░░░░░░░   38.89 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
 
 
- Last Updated on 11/08/2026 02:37:44 UTC
+ Last Updated on 12/08/2026 03:06:54 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">

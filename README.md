@@ -197,7 +197,7 @@ mindset:     "Ship. Learn. Repeat. 🚀"
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-436%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-436%20hrs%2054%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -228,48 +228,47 @@ Sunday                   114 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-Markdown                 2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-Other                    1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-HTML                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-TypeScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Python                   3 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.07 % 
+Markdown                 2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
+Other                    1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+TypeScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Bash                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 48 mins      █████████████████████░░░░   84.57 % 
-VS Code                  1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Claude Code              10 hrs 45 mins      ████████████████████████░   96.42 % 
+VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 🐱‍💻 Projects: 
-wings AI                 7 hrs 39 mins       ███████████████░░░░░░░░░░   59.92 % 
-axithor- foods           1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Wings-Delivery-AI        1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-React learn              55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-react website            30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+wings AI                 7 hrs 44 mins       █████████████████░░░░░░░░   69.36 % 
+axithor- foods           1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Wings-Delivery-AI        1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+rev-eng1 test oracle new 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+my-react-app             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 💻 Operating System: 
-Windows                  12 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 52 mins (85.18%)
+⏱ AI Coding Time: 10 hrs 49 mins (97.06%)
 
-✍️ 7,867 lines written by AI, 259 lines written by hand (96.81% AI-written)
+✍️ 7,867 lines written by AI, 12 lines written by hand (99.85% AI-written)
 
-🔤 6,589,667 Input Tokens, 513,726 Output Tokens
+🔤 7,110,933 Input Tokens, 512,330 Output Tokens
 
-💵 $83.06 Estimated AI Cost This Week
+💵 $84.30 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 222 AI Prompts
+🧠 10 AI Sessions, 223 AI Prompts
 
 Sonnet                   7,923 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.81% of written lines came from AI
-📝 Concise Prompter — average 227 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 5.91% of changed lines were hand-edited
+🤖 AI-Driven — 99.85% of written lines came from AI
+📝 Concise Prompter — average 225 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
+🚀 High AI Trust — 1.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -285,7 +284,7 @@ PLSQL                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 04:56:50 UTC
+ Last Updated on 04/09/2026 05:00:53 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">

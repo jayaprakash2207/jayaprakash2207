@@ -228,44 +228,43 @@ Sunday                   114 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.62 % 
-Python                   2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   29.26 % 
-Other                    1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Bash                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-TOML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Markdown                 3 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   38.54 % 
+Python                   2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+Other                    1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+TOML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 42 mins       █████████████████████████   99.16 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Claude Code              7 hrs 50 mins       █████████████████████████   99.47 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🐱‍💻 Projects: 
-Portage project          4 hrs 46 mins       ██████████████░░░░░░░░░░░   54.48 % 
-wings AI                 3 hrs 57 mins       ███████████░░░░░░░░░░░░░░   45.13 % 
-fast api learn           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Portage project          4 hrs 46 mins       ███████████████░░░░░░░░░░   60.64 % 
+wings AI                 3 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.36 % 
 
 💻 Operating System: 
-Windows                  8 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 46 mins (100.0%)
+⏱ AI Coding Time: 7 hrs 53 mins (100.0%)
 
-✍️ 12,436 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 12,371 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,417,103 Input Tokens, 558,578 Output Tokens
+🔤 7,268,528 Input Tokens, 542,576 Output Tokens
 
-💵 $102.15 Estimated AI Cost This Week
+💵 $96.64 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 156 AI Prompts
+🧠 5 AI Sessions, 141 AI Prompts
 
-Sonnet                   12,519 lines        █████████████████████████   100.00 % 
+Sonnet                   12,454 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 370 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
+📝 Concise Prompter — average 405 characters per prompt
+🔁 Iterative Prompter — average 28 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -282,7 +281,7 @@ PLSQL                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 05:05:53 UTC
+ Last Updated on 12/09/2026 04:56:17 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">

@@ -195,9 +195,9 @@ mindset:     "Ship. Learn. Repeat. 🚀"
 <h2 align="center">⏱️ &nbsp;Weekly Coding Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-416%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-455%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-458%20hrs%2040%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -228,41 +228,41 @@ Sunday                   116 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 56 mins       ██████████████░░░░░░░░░░░   57.49 % 
-TypeScript               1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Other                    1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Bash                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-TOML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Python                   8 hrs 23 mins       ████████████████░░░░░░░░░   63.43 % 
+Other                    1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+TypeScript               1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Bash                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+TOML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 20 mins      █████████████████████████   100.00 % 
+Claude Code              13 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wings AI                 10 hrs 20 mins      █████████████████████████   100.00 % 
+wings AI                 13 hrs 14 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 20 mins (100.0%)
+⏱ AI Coding Time: 13 hrs 14 mins (100.0%)
 
-✍️ 1,625 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,438 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,276,532 Input Tokens, 252,060 Output Tokens
+🔤 2,505,446 Input Tokens, 363,341 Output Tokens
 
-💵 $69.29 Estimated AI Cost This Week
+💵 $86.26 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 93 AI Prompts
+🧠 4 AI Sessions, 143 AI Prompts
 
-Sonnet                   1,637 lines         █████████████████████████   100.00 % 
+Sonnet                   2,450 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,282 characters per prompt
-🔁 Iterative Prompter — average 31 prompts per session
+📄 Detailed Prompter — average 880 characters per prompt
+🔁 Iterative Prompter — average 36 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -279,7 +279,7 @@ PLSQL                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 05:21:23 UTC
+ Last Updated on 22/09/2026 05:19:37 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">

@@ -203,11 +203,11 @@ mindset:     "Ship. Learn. Repeat. 🚀"
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,171 Contributions in the Year 2026
+> 🏆 1,172 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 66 Public Repositories 
+> 📜 67 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -228,61 +228,59 @@ Sunday                   118 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 8 mins        ███████████████░░░░░░░░░░   61.79 % 
-Markdown                 1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Python                   1 hr 14 mins        ████████████████░░░░░░░░░   65.57 % 
+Bash                     28 mins             ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 13 mins       █████████████████████████   99.01 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Claude Code              1 hr 53 mins        █████████████████████████   99.55 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🐱‍💻 Projects: 
-wings AI                 5 hrs 19 mins       ████████████████░░░░░░░░░   63.96 % 
-Wings-Delivery-AI        2 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
-quant AI                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+wings AI                 1 hr 53 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 18 mins (99.97%)
+⏱ AI Coding Time: 1 hr 53 mins (100.0%)
 
-✍️ 4,166 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 337 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,399,686 Input Tokens, 654,336 Output Tokens
+🔤 1,228,112 Input Tokens, 137,126 Output Tokens
 
-💵 $136.20 Estimated AI Cost This Week
+💵 $25.34 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 114 AI Prompts
+🧠 2 AI Sessions, 33 AI Prompts
 
-Sonnet                   4,191 lines         █████████████████████████   100.00 % 
+Sonnet                   407 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 878 characters per prompt
-🔁 Iterative Prompter — average 23 prompts per session
-🚀 High AI Trust — 1.16% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 162 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   30 repos            ██████████░░░░░░░░░░░░░░░   39.47 % 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-PLSQL                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Python                   31 repos            ██████████░░░░░░░░░░░░░░░   40.26 % 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+PLSQL                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 
 
 
 
- Last Updated on 07/10/2026 06:23:02 UTC
+ Last Updated on 08/10/2026 06:34:40 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">

@@ -195,15 +195,15 @@ mindset:     "Ship. Learn. Repeat. 🚀"
 <h2 align="center">⏱️ &nbsp;Weekly Coding Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-479%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-480%20hrs%2030%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,172 Contributions in the Year 2026
+> 🏆 1,173 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -214,12 +214,12 @@ mindset:     "Ship. Learn. Repeat. 🚀"
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   371 commits         ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-Tuesday                  254 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Wednesday                243 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Thursday                 175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Friday                   128 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Saturday                 148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Monday                   371 commits         ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+Tuesday                  254 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Wednesday                243 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Thursday                 175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Friday                   128 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Saturday                 149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
 Sunday                   118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 ```
 
@@ -228,40 +228,41 @@ Sunday                   118 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   19 mins             ███████████████████░░░░░░   74.88 % 
-Other                    5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Python                   55 mins             ████████████████████░░░░░   81.26 % 
+Other                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-Claude Code              24 mins             ████████████████████████░   95.91 % 
-VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Claude Code              1 hr 7 mins         █████████████████████████   98.48 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🐱‍💻 Projects: 
-wings AI                 25 mins             █████████████████████████   100.00 % 
+wings AI                 1 hr 8 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (100.0%)
+⏱ AI Coding Time: 1 hr 8 mins (100.0%)
 
-✍️ 36 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 558 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 797,392 Input Tokens, 43,059 Output Tokens
+🔤 1,820,169 Input Tokens, 114,441 Output Tokens
 
-💵 $10.60 Estimated AI Cost This Week
+💵 $26.94 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 9 AI Prompts
+🧠 2 AI Sessions, 13 AI Prompts
 
-Sonnet                   36 lines            █████████████████████████   100.00 % 
+Sonnet                   558 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 157 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📝 Concise Prompter — average 183 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -278,7 +279,7 @@ PLSQL                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 06:18:31 UTC
+ Last Updated on 11/10/2026 06:18:20 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
